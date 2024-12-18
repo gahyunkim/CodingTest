@@ -1,2 +1,1 @@
 str = input()
-print(str)
